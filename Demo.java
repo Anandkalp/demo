@@ -1,7 +1,7 @@
 public class Demo
 {
-public static void main(String args[])
+public static void main(String arbgs[])
 {
-System.out.println("Welcome to demo class");
+System.out.println("Welcome to");
 }
 }
